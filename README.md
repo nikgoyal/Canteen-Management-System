@@ -11,4 +11,5 @@ Make sure you already have installed all the modules used in this project.
 Steps to follow after installing all the modules. Otherwise this application will not work properly.
 
 # Steps to create and use of DataBase and tables are in different file name Canteen.sql .
+# images, used in the project, are available.
 # Main project
