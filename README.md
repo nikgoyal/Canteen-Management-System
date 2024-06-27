@@ -10,5 +10,5 @@ processing orders, handling payments, and generating bills.
 Make sure you already have installed all the modules used in this project.
 Steps to follow after installing all the modules. Otherwise this application will not work properly.
 
-# Steps to create and use of DataBase and tables are in different file name GitHub Canteen Database.
+# Steps to create and use of DataBase and tables are in different file name Canteen.sql .
 # Main project
